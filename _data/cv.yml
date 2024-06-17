@@ -25,7 +25,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Reseearch Intern
+    - title: Research Intern
       institution: Michigan State University, USA
       year: 2023-2024
       description:
@@ -47,5 +47,48 @@
           contents:  
             - Prof. Saumyakanti Khatua (Principal Investigator)
             - Dr. Praneeth NVS (Mentor)
+    - title: Undergraduate Researcher
+      institution: Indian Institute Of Technology Ganddhinagar, India
+      year: 2022-2023
+      description:
+        - Conducted a comprehensive literature review on the aluminium thin film deposition process to achieve an understanding of the optimal deposition condition.
+        - Used RF magnetron sputtering technique to obtain the thin film. 
+        - Characterised the film using techniques like XRD, SEM and UV-vis-NIR spectrophotometer.
+        - Analyzed the conditions necessary for using the thin film for making smart windows.
+        - title: Research advisors - 
+          contents:  
+            - Prof. Emila Panda (Principal Investigator)
+            - Dr. Ravi Teja (Mentor)
+    - title: SRIP Fellow
+      institution: Indian Institute Of Technology Ganddhinagar, India
+      year: 2022-2022
+      description:
+        - Analyzed the elemental concentration present in bones by using XRF analysis.
+        - Analyzed the presence of collagen in the sample by using FTIR analysis. 
+        - Demonstrated that diagenesis had taken place in the sample by undergoing chemical exchange from nearby rocks and meteoric water
+        - title: Research advisors - 
+          contents:  
+            - Prof. Sharada CV (Principal Investigator)
+            - Dr. Shradha Menon (Mentor)
+            
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/anandu-muralidharan/ImageProcessingGUI">Image Processing GUI</a>
+      year: 2023-now
+      description: Can be used to visually display the data obtained from blinking studies of quantum dot semiconductors.
+    - title: <a href="https://github.com/anandu-muralidharan/ImageProcessingGUI">Curve Fitting code</a>
+      year: 2023-now
+      description: Standalone version of the curve fitting code from the ImageProcessingGUI. Made for Nanoplasmonics Laboratory @ IIT Gandhinagar.
+      
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020-2024
+      items:
+        - Deans List recipient for exceptional academic performance for two consecutive semesters (VI and VII)
+        - third prize for the best project in the course - Mechanics Of Solid.
+        - Achieved gold badge status (Highest) for the alphathon conducted by WorldQuant
+
 
    
