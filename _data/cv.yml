@@ -77,7 +77,7 @@
     - title: <a href="https://github.com/anandu-muralidharan/ImageProcessingGUI">Image Processing GUI</a>
       year: 2023-now
       description: Can be used to visually display the data obtained from blinking studies of quantum dot semiconductors.
-    - title: <a href="https://github.com/anandu-muralidharan/ImageProcessingGUI">Curve Fitting code</a>
+    - title: <a href="https://github.com/anandu-muralidharan/CurveFitting-code">Curve Fitting code</a>
       year: 2023-now
       description: Standalone version of the curve fitting code from the ImageProcessingGUI. Made for Nanoplasmonics Laboratory @ IIT Gandhinagar.
       
