@@ -19,4 +19,4 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I am a senior undergraduate in the discipline of Materials Engineering at Indian Institute Of Technology Gandhinagar, India. I am going to start my Mtech journey in Functional materials and nanotechnology at IIT Madras this fall.
 
-During my free time, I enjoy drawing and reading novels. I had also tried learning front-end development for a short period of time. During this time, I had created a webpage for displaying some of the artworks that I had made. You can view this using this link(https://hewlot-artprotfolio1.netlify.app/)
+During my free time, I enjoy drawing and reading novels. I had also tried learning front-end development for a short period of time. During this time, I had created a webpage for displaying some of the artworks that I had made. You can view this using this link - [Art Portfolio](https://hewlot-artprotfolio1.netlify.app/)
