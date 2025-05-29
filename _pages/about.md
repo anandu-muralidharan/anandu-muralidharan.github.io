@@ -17,8 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am a senior undergraduate in the discipline of Materials Engineering at Indian Institute Of Technology Gandhinagar, India. I am going to start my MTech journey in Functional materials and nanotechnology at IIT Madras this fall.
+Hi, I am a final-year master's student in the discipline of Functional Materials and Nanotechnology at the Indian Institute of Technology Madras, India. I previously completed my undergraduate studies with honours in the discipline of Materials Science and Engineering from the Indian Institute of Technology Gandhinagar, India
 
-During my undergraduate studies, I have done many multidisciplinary research in the field of nanoplasmonics and optoelectronics. As I am interested in working in the domain " Machine learning in material science", I am currently learning the basics of ML. The projects and notes that I will be making will be updated in the Projects tab of this webpage. 
+My current research interests are in the domain of electrochemistry and computational materials science. My current projects primarily involve using computational techniques, such as DFT and molecular dynamics simulations, to study energy materials used in batteries and fuel cells. One of the projects I am currently working on involves the molecular dynamics study of ZIF-8 (a MOF structure) as the cathode structures for Lithium-Sulfur batteries. 
+During my undergraduate studies, I have done many multidisciplinary research projects in the field of nanoplasmonics and optoelectronics.
 
-During my free time, I enjoy drawing and reading novels. I will be creating a new page for displaying my artworks soon.
+During my free time, I enjoy drawing and reading novels. 
