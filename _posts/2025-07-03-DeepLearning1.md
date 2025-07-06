@@ -3,7 +3,7 @@ layout: post
 title: DeepLearning-1
 date: 2025-07-03 08:57:00-0400
 description: an example of a blog post with jupyter notebook
-tags: formatting jupyter
+tags: DeepLearning
 categories: sample-posts
 giscus_comments: true
 related_posts: false
