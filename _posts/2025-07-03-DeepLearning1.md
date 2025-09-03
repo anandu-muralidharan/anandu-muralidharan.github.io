@@ -13,7 +13,7 @@ related_posts: false
 
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/Mat_Info_1" | relative_url %}
-{% capture notebook_exists %}{% file_exists assets/jupyter/Mat_Info_1 %}{% endcapture %}
+{% capture notebook_exists %}{% file_exists assets/jupyter/Mat_Info_1.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
 {% jupyter_notebook jupyter_path %}
 {% else %}
