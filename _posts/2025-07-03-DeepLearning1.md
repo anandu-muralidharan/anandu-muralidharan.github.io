@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DeepLearning-1
+title: Material_Informatics_1
 date: 2025-07-03 08:57:00-0400
 description: Implementing linear regression / SVM / random forrest on formation energies dataset.
 tags: Material_Informatics
