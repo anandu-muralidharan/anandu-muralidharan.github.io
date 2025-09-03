@@ -2,18 +2,18 @@
 layout: post
 title: DeepLearning-1
 date: 2025-07-03 08:57:00-0400
-description: an example of a blog post with jupyter notebook
-tags: DeepLearning
-categories: sample-posts
+description: Implementing linear regression / SVM / random forrest on formation energies dataset.
+tags: Material_Informatics
+categories: Material_Informatics
 giscus_comments: true
 related_posts: false
 ---
 
-This is the first post in the series where i will be triying to recreate the mini-projects given in fast.ai website
+---
 
 {::nomarkdown}
-{% assign jupyter_path = "assets/jupyter/DeepLearning1.ipynb" | relative_url %}
-{% capture notebook_exists %}{% file_exists assets/jupyter/DeepLearning1.ipynb %}{% endcapture %}
+{% assign jupyter_path = "assets/jupyter/Mat_Info_1" | relative_url %}
+{% capture notebook_exists %}{% file_exists assets/jupyter/Mat_Info_1 %}{% endcapture %}
 {% if notebook_exists == "true" %}
 {% jupyter_notebook jupyter_path %}
 {% else %}
